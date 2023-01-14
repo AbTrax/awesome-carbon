@@ -1,6 +1,6 @@
 # Awesome Carbon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Carbon frameworks, libraries, software, resources and news.
+A curated list of awesome [Carbon](https://github.com/carbon-language/carbon-lang) frameworks, libraries, software, resources and news.
 
 Inspired by [awesome-Python](https://github.com/ziadoz/awesome-php).
 
@@ -11,11 +11,17 @@ Inspired by [awesome-Python](https://github.com/ziadoz/awesome-php).
   - [Command-line Interface Development](#command-line-interface-development)
   - [Command-line Tools](#command-line-tools)
   - [Concurrency and Parallelism](#concurrency-and-parallelism)
+  - [Date and Time](#date-and-time)
   - [Debugging Tools](#debugging-tools)
   - [Documentation](#documentation)
+  - [Downloader](#downloader)
+  - [Editor Plugins and IDEs](#editor-plugins-and-ides)
   - [Files](#files)
   - [Functional Programming](#functional-programming)
+  - [GUI Development](#gui-development)
   - [Logging](#logging)
+  - [Miscellaneous](#miscellaneous)
+  - [Refactoring](#refactoring)
   - [RESTful API](#restful-api)
   - [Robotics](#robotics)
   - [Science](#science)
@@ -133,7 +139,6 @@ Inspired by [awesome-Python](https://github.com/ziadoz/awesome-php).
 
 - Test Data Generation
 
-
 ## Third-party APIs
 
 *Libraries for accessing third party services APIs.*
@@ -159,8 +164,7 @@ Where to discover learning resources or new Carbon libraries.
 # Contributing
 
 Your contributions are always welcome! Please take a look at the contribution guidelines first
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them] by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/AbTrax/awesome-carbon/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact me by opening an issue on GitHub.
-# awesome-carbon
