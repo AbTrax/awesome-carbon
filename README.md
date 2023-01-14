@@ -15,7 +15,6 @@ Inspired by [awesome-Python](https://github.com/ziadoz/awesome-php).
   - [Documentation](#documentation)
   - [Files](#files)
   - [Functional Programming](#functional-programming)
-  - [Hardware](#hardware)
   - [Logging](#logging)
   - [RESTful API](#restful-api)
   - [Robotics](#robotics)
@@ -122,24 +121,18 @@ Inspired by [awesome-Python](https://github.com/ziadoz/awesome-php).
 
 *Shells based on Carbon.*
 
+## Software Architecture
+
+*Libraries for software architecture.*
+
 ## Testing
 
 *Libraries for testing codebases and generating test data.*
 
 - Testing Frameworks
 
-- Test Runners
+- Test Data Generation
 
-- GUI / Web Testing
-
-- Mock
-
-- Object Factories
-
-- Code Coverage
-
-- Fake Data
-    *
 
 ## Third-party APIs
 
@@ -165,7 +158,8 @@ Where to discover learning resources or new Carbon libraries.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the contribution guidelines first.
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them] by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
-- - -
+Your contributions are always welcome! Please take a look at the contribution guidelines first
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them] by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
+---
+
 If you have any question about this opinionated list, do not hesitate to contact me by opening an issue on GitHub.
