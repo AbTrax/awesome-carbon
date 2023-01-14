@@ -33,7 +33,7 @@ Inspired by [awesome-Python](https://github.com/ziadoz/awesome-php).
 
 ## Algorithms and Design Patterns
 
-*Carbbon implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
+*Carbon implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms).*
 
 ## Asynchronous Programming
 
